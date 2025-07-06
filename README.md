@@ -1,23 +1,23 @@
-# synctime
-**Sync time, or time synchronization, refers to the process of aligning the clocks on two or more devices or systems to ensure they display the same time.**
-
-**ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION** 
+# Achieving High Write Availability in Distributed Systems Through Multi-Leader Replication
 * Author: Naveen Srikanth Pasupuleti
 * Published In : International Journal on Science and Technology (IJSAT)
-* Publication Date: 06-2022
+* Publication Date: June 2022
 * E-ISSN: 2229-7677
 * Impact Factor: 9.88
-* Link: https://www.ijsat.org/research-paper.php?id=5841
+* Link: [Read the paper](https://www.ijsat.org/research-paper.php?id=5841)
 
 **Abstract**:\
 In distributed systems, accurate time synchronization is vital for maintaining consistency and coordination among nodes. Traditional Network Time Protocol (NTP) often suffers from high synchronization delays, especially in large-scale systems with many nodes and high network latency. These delays can lead to inconsistencies in data replication and hinder time-sensitive operations. This paper proposes the use of Chrony Sync, a more efficient time synchronization method, to significantly reduce synchronization times. By optimizing synchronization, Chrony enhances system performance, consistency, and reliability in large distributed environments.
+
+**Sync Time**:\
+Sync time, or time synchronization, refers to the process of aligning the clocks on two or more devices or systems to ensure they display the same time.
 
 **Key Contributions:** 
 * **Algorithm Development** \
   Designed and optimized Chrony sync time algorithm to achieve high write availability in distributed systems.
 * **Performance Comparison** \
   Conducted bench marking between NTP Sync time and Chrony sync time.
-* **Reserach Leadership** \
+* **Research Leadership** \
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
@@ -42,7 +42,7 @@ In distributed systems, accurate time synchronization is vital for maintaining c
 | 11                   | 18                      | 3                          | 83.3            |
 
 **Citation**
-* **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process.**
+* **Optimizing Read Performance in Distributed Systems Using Chrony Sync Process.**
 *   Naveen Srikanth Pasupuleti
 *   International Journal on Science and Technology
 *   E-ISSN-2229-7677
@@ -51,7 +51,7 @@ In distributed systems, accurate time synchronization is vital for maintaining c
 * This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* https://www.ijsat.org/
+* [IJSAT Website](https://www.ijsat.org/)
 
 **Author Contact** 
   * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
