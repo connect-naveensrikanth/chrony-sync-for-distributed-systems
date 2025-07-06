@@ -48,7 +48,7 @@ Sync time, or time synchronization, refers to the process of aligning the clocks
 *   E-ISSN-2229-7677
 
 **License**
-* This research is shared for a academic and research purposes. For commercial use, please contact the author.
+* This research is shared for academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
 * [IJSAT Website](https://www.ijsat.org/)
