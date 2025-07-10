@@ -57,5 +57,4 @@ Accurate time sync reduces write conflicts and improves reliability in distribut
 * [IJSAT Website](https://www.ijsat.org/)
 
 **Author Contact** 
-  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
-  * Email: connect.naveensrikanth@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth | Email: connect.naveensrikanth@gmail.com
