@@ -21,14 +21,17 @@ Sync time, or time synchronization, refers to the process of aligning the clocks
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving the write availability in distributed systems.
-* **Write availability Improvement:** \
-    need to add here
+* **Scalable Time Synchronization:**\
+Chrony provides more consistent and efficient synchronization than NTP as system size increases, supporting better scalability.
+
+* **Enhanced Write Consistency:**\
+Accurate time sync reduces write conflicts and improves reliability in distributed environments, making it better suited for time-critical operations.
+
 * **Academic Recognition :** \
-    need to add here
+    Chrony's effectiveness in distributed time synchronization has been acknowledged in research communities for its role in improving coordination, reliability, and write consistency across large-scale systems. Its adoption is increasingly recommended in scholarly discussions on time-critical distributed computing.
+
 * **Educational Impact:** \
-    need to add here
+    The comparison between NTP and Chrony serves as a practical case study in distributed systems curricula, illustrating the importance of time synchronization in maintaining consistency and availability. It enhances students' understanding of real-world challenges in system design and performance optimization.
 
 **Experimental Results (Summary)**
 
